@@ -2,28 +2,28 @@
 Implementation of machine learning algorithms in python using scikit-learn and pytorch. 
 
 ### 1. Introduction to PyTorch 
-   - [ ] **Understanding Tensors**: Basic building blocks in PyTorch.
-   - [ ] **Tensor Operations**: Addition, multiplication, and other operations.
-   - [ ] **Autograd**: PyTorch's automatic differentiation engine.
-   - [ ] **Backpropagation Basics**: Understanding how gradients are computed.
-   - [ ] **Simple Neural Network**: Building a basic neural network.
+   - [x] **Understanding Tensors**: Basic building blocks in PyTorch.
+   - [x] **Tensor Operations**: Addition, multiplication, and other operations.
+   - [x] **Autograd**: PyTorch's automatic differentiation engine.
+   - [x] **Backpropagation Basics**: Understanding how gradients are computed.
+   - [x] **Simple Neural Network**: Building a basic neural network.
    - [ ] **Loss Functions**: Implementing mean squared error and cross-entropy.
-   - [ ] **Optimizers**: Using optimizers like SGD and Adam.
-   - [ ] **Data Loading**: Using `DataLoader` and `Dataset`.
-   - [ ] **CPU vs GPU Computation**: Running operations on different devices.
+   - [x] **Optimizers**: Using optimizers like SGD and Adam.
+   - [x] **Data Loading**: Using `DataLoader` and `Dataset`.
+   - [x] **CPU vs GPU Computation**: Running operations on different devices.
    - [ ] **Debugging**: Basic debugging in PyTorch.
 
 ### 2. Linear Regression with PyTorch
-   - [ ] **Model Definition**: Creating a linear regression model.
-   - [ ] **Batch Processing**: Processing data in batches.
-   - [ ] **Parameter Tuning**: Adjusting learning rate and other hyperparameters.
-   - [ ] **Evaluation Metrics**: MSE and R² for regression.
-   - [ ] **Overfitting & Underfitting**: Basic concepts.
-   - [ ] **Regularization Techniques**: L1 and L2 regularization.
-   - [ ] **Saving & Loading Models**: Managing model states.
-   - [ ] **Visualization**: Plotting loss and predictions.
-   - [ ] **Feature Engineering**: Preparing data for linear regression.
-   - [ ] **Cross-Validation**: Implementing basic cross-validation.
+   - [x] **Model Definition**: Creating a linear regression model.
+   - [x] **Batch Processing**: Processing data in batches.
+   - [x] **Parameter Tuning**: Adjusting learning rate and other hyperparameters.
+   - [x] **Evaluation Metrics**: MSE and R² for regression.
+   - [x] **Overfitting & Underfitting**: Basic concepts.
+   - [x] **Regularization Techniques**: L1 and L2 regularization.
+   - [x] **Saving & Loading Models**: Managing model states.
+   - [x] **Visualization**: Plotting loss and predictions.
+   - [x] **Feature Engineering**: Preparing data for linear regression.
+   - [x] **Cross-Validation**: Implementing basic cross-validation.
 
 ### 3. Logistic Regression for Classification
    - [ ] **Binary Classification**: Basics of logistic regression.
@@ -38,25 +38,25 @@ Implementation of machine learning algorithms in python using scikit-learn and p
    - [ ] **Class Imbalance**: Handling imbalanced datasets.
 
 ### 4. Feedforward Neural Networks
-   - [ ] **Network Architecture**: Designing a multi-layer network.
+   - [x] **Network Architecture**: Designing a multi-layer network.
    - [ ] **Activation Functions**: ReLU, Sigmoid, Tanh.
-   - [ ] **Weight Initialization**: Xavier and He initialization.
-   - [ ] **Batch Normalization**: Accelerating training.
-   - [ ] **Dropout**: Regularizing the network.
-   - [ ] **Model Evaluation**: Using validation data.
-   - [ ] **Hyperparameter Optimization**: Grid search and random search.
-   - [ ] **Early Stopping**: Preventing overfitting.
-   - [ ] **Learning Rate Scheduling**: Adjusting the learning rate.
-   - [ ] **Transfer Learning**: Applying pre-trained networks.
+   - [x] **Weight Initialization**: Xavier and He initialization.
+   - [x] **Batch Normalization**: Accelerating training.
+   - [x] **Dropout**: Regularizing the network.
+   - [x] **Model Evaluation**: Using validation data.
+   - [x] **Hyperparameter Optimization**: Grid search and random search.
+   - [x] **Early Stopping**: Preventing overfitting.
+   - [x] **Learning Rate Scheduling**: Adjusting the learning rate.
+   - [x] **Transfer Learning**: Applying pre-trained networks.
 
 ### 5. Convolutional Neural Networks (CNNs)
-   - [ ] **Convolution Operation**: Understanding filters and feature maps.
-   - [ ] **Pooling Layers**: Max and average pooling.
-   - [ ] **CNN Architectures**: LeNet, AlexNet, etc.
-   - [ ] **Image Preprocessing**: Normalization and augmentation.
+   - [x] **Convolution Operation**: Understanding filters and feature maps.
+   - [x] **Pooling Layers**: Max and average pooling.
+   - [x] **CNN Architectures**: LeNet, AlexNet, etc.
+   - [x] **Image Preprocessing**: Normalization and augmentation.
    - [ ] **Object Localization**: Basics of bounding boxes.
    - [ ] **Feature Visualization**: Understanding what CNNs learn.
-   - [ ] **Fine-Tuning**: Modifying pre-trained models.
+   - [x] **Fine-Tuning**: Modifying pre-trained models.
    - [ ] **CAM (Class Activation Maps)**: Visualizing feature importance.
    - [ ] **Segmentation**: Basics of image segmentation.
    - [ ] **Advanced Architectures**: Introduction to ResNet, Inception, etc.
@@ -81,8 +81,6 @@ Implementation of machine learning algorithms in python using scikit-learn and p
    - [ ] **Anomaly Detection**: Using autoencoders for outlier detection.
    - [ ] **Dimensionality Reduction**: Comparing with PCA.
    - [ ] **Data Generation**: Generating new data samples.
-
-
    - [ ] **Transfer Learning with Autoencoders**: Utilizing learned features.
    - [ ] **Deep Autoencoders**: Creating deeper models.
    - [ ] **Applications**: Practical uses in different domains.
